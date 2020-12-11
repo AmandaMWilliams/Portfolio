@@ -16,7 +16,7 @@
 ### Summary
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 <hr><hr>
-## Technical Skills
+### Technical Skills
 **Languages:**
   * Java, HTML, CSS, JavaScript, SQL, MarkDown
 **Frameworks: **
@@ -35,7 +35,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 #### Casino App
 * Collaborated with a team of five to develop a suite of four casino-style games using Java. Personally, developed the Testing implementations for each game, and generated the BlackJack gameplay methods. Managed and resolved all GitHub merge conflicts. [www.github.com/ZCW-Java6dot2/cats-casino](http://www.github.com/ZCW-Java6dot2/cats-casino)
 <hr><hr>
-## Professional Experience
+### Professional Experience
 ### Zip Code Wilmington
 * **Software Developer**
   * **Wilmington, DE**
