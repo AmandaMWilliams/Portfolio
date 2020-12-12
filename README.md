@@ -6,9 +6,9 @@
 
 ### Contact Information
 * **Phone**: `(302)-521-8813`
-* **Email**: <a href="mailto:Amandawilliams1915@gmail.com">`Amandawilliams1915@gmail.com`</a>
-* **LinkedIn:** <a href="">`linkedin.com/in/amandamwilliams1/`</a>
-* **Github:** `https://github.com/AmandaMWilliams`
+* **Email**: [`Amandawilliams1915@gmail.com`](mailto:Amandawilliams1915@gmail.com)
+* **LinkedIn:** [`linkedin.com/in/amandamwilliams1/`](linkedin.com/in/amandamwilliams1/)
+* **Github:** [`https://github.com/AmandaMWilliams`](https://github.com/AmandaMWilliams)
 
 
 
@@ -17,9 +17,9 @@
 * Associate of Science Degree
 
 #### Achievements
-- Graduated Summa Cum Laude
-- President's List (1 Semester)
-- Academic Recognition (4 Semesters)
+* Graduated Summa Cum Laude
+* President's List (1 Semester)
+* Academic Recognition (4 Semesters)
 
 
 
@@ -35,7 +35,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 ### Technical Skills
 * **Languages:**
   * Java, HTML, CSS, JavaScript, SQL, MarkDown
-* **Frameworks: **
+* **Frameworks:**
 * **Other Skills:**
   * Git CLI and Version Control Management
   * GitHub Pages
