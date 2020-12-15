@@ -1,3 +1,4 @@
+* Click [here](./Portfolio.pdf) to download the most recent PDF
 # Amanda M. Williams
 # Junior Java Developer
 ## About
