@@ -8,7 +8,7 @@
 ### Contact Information
 * **Phone**: `(302)-521-8813`
 * **Email**: [`Amandawilliams1915@gmail.com`](mailto:Amandawilliams1915@gmail.com)
-* **LinkedIn:** [`linkedin.com/in/amandamwilliams1/`](linkedin.com/in/amandamwilliams1/)
+* **LinkedIn:** [`linkedin.com/in/amandamwilliams1/`](https://linkedin.com/in/amandamwilliams1/)
 * **Github:** [`https://github.com/AmandaMWilliams`](https://github.com/AmandaMWilliams)
 
 
@@ -55,7 +55,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 #### Current State Of Application
-* The _[First Solo Project](`https://github.com/AmandaMWilliams/FirstSoloProject`)_ is an interactive storybook based on Little Red Ridinghood
+* The _[First Solo Project](https://github.com/AmandaMWilliams/FirstSoloProject)_ is an interactive storybook based on Little Red Ridinghood
   * The application has a console for input and a console-display for printing output in the terminal.
   
   
