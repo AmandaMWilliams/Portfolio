@@ -40,6 +40,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * **Other Skills:**
   * Git CLI and Version Control Management
   * GitHub Pages
+  * Agile, Scrum
 
 
 
