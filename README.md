@@ -46,8 +46,8 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Test-Driven Development
   * Object-Oriented Programming
 
-[x] Click [here](./SQLCert.pdf) to view my SQL certification!<br/>
-[x] Click [here](./HTMLCert.pdf) to view my HTML certification!
+\* Click [here](./SQLCert.pdf) to view my SQL certification!<br/>
+\* Click [here](./HTMLCert.pdf) to view my HTML certification!
 
 <hr><hr>
 
