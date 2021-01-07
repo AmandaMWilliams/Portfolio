@@ -1,4 +1,5 @@
 * Click [here](./PortfolioAmandaWilliams.pdf) to download the most recent PDF
+
 # Amanda M. Williams
 # Junior Java Developer
 ## About
@@ -35,7 +36,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Technical Skills
 * **Languages:**
-  * Java, JavaScript, SQL, MarkDown
+  * Java, JavaScript, SQL, MarkDown, HTML
 * **Frameworks:**
 * **Other Skills:**
   * Git CLI and Version Control Management
