@@ -36,7 +36,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Technical Skills
 * **Languages:**
-  * Java, JavaScript, SQL\*, MarkDown, HTML
+  * Java, JavaScript, SQL\*, MarkDown, HTML\*
 * **Frameworks:**
 * **Other Skills:**
   * Git CLI and Version Control Management
@@ -46,6 +46,8 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Test-Driven Development
   * Object-Oriented Programming
 
+\* Click [here] to view my SQL certification!
+\* Click [here] to view my HTML certification!
 
 <hr><hr>
 
