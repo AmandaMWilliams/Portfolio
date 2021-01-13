@@ -68,7 +68,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * The Editor used to implement the application was Visual Studio Code (VS Code).  
 
 #### Future Implementation State Of Application
-* In the future, I would like implement a RESTful webserver to enable data persistance.  
+* In the future, I would like implement a RESTful webserver to enable data persistence.  
 
 <hr>
 
