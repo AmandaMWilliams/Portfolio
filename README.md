@@ -60,10 +60,15 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 #### Current State Of Application
-* [ReactJS ToDo List Web Application](https://github.com/AmandaMWilliams/FirstSoloProject) is a ToDo list leveraging NodeJS, ReactJS, and Heroku with Node BuildPack.  
+* [Heroku Deployed ReactJS ToDo List Web Application](https://todolist-react-williams.herokuapp.com/) is a ToDo list leveraging NodeJS, ReactJS, and Heroku with Node BuildPack.  
+* This application is maintained in GitHub [here](https://github.com/AmandaMWilliams/ReactToDoList).  
 * The application is a graphical user interface that displays tasks to be completed.  
-* The Editor used to implement the application is Visual Studio Code (VS Code).  
+* The Editor used to implement the application was Visual Studio Code (VS Code).  
 
+#### Future Implementation State Of Application
+* In the future, I would like implement a RESTful webserver to enable data persistance.  
+
+<hr>
 
 ### First Solo Project
 
