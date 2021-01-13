@@ -56,6 +56,14 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 ## Personal Projects
 
 
+### Heroku Deployed ReactJS ToDo List Web Application
+
+
+#### Current State Of Application
+* [ReactJS ToDo List Web Application](https://github.com/AmandaMWilliams/FirstSoloProject) is a ToDo list leveraging NodeJS, ReactJS, and Heroku with Node BuildPack.  
+* The application is a graphical user interface that displays tasks to be completed.  
+* The Editor used to implement the application is Visual Studio Code (VS Code).  
+
 
 ### First Solo Project
 
@@ -69,10 +77,10 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * Graphical User Interface (GUI)
 
 
-
+<!--
 ### Casino App
 * Collaborated with a team of five to develop a suite of four casino-style games using Java. Personally, developed the Testing implementations for each game, and generated the BlackJack gameplay methods. Managed and resolved all GitHub merge conflicts. [www.github.com/ZCW-Java6dot2/cats-casino](http://www.github.com/ZCW-Java6dot2/cats-casino)
-
+-->
 
 
 <hr><hr>
