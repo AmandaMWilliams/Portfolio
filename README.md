@@ -19,7 +19,7 @@
 * Associate of Science Degree
 
 #### Achievements
-* Graduated Summa Cum Laude
+* Graduated Summa Cum Laude (GPA: 4.0)
 * President's List (1 Semester)
 * Academic Recognition (4 Semesters)
 
@@ -51,6 +51,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * **Certifications:**
   * [SQL certification](./SQLCert.pdf)  
   * [HTML certification](./HTMLCert.pdf)  
+  
 
 <hr><hr>
 
