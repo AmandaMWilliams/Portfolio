@@ -26,7 +26,7 @@
 
 
 ### Summary
-Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github, [cumulating more than 600 github contributions within the past 4 months](https://github.com/AmandaMWilliams).
+Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github, [cumulating more than 700 github contributions within the past 4 months](https://github.com/AmandaMWilliams).
 <!--
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 -->
