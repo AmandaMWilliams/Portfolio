@@ -2,7 +2,7 @@
 
 # Amanda M. Williams 
 # Junior Java Developer  
-## About
+## About 
 
 
 
