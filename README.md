@@ -48,6 +48,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Terminal, Bash, Shell
   * Test-Driven Development
   * Object-Oriented Programming
+  * Amazon Web Services (AWS): IAM
 * **Certifications:**
   * [SQL certification](./SQLCert.pdf)  
   * [HTML certification](./HTMLCert.pdf)  
