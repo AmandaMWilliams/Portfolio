@@ -79,7 +79,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 #### Current State of Application
 * [Angular Todo List Web Application with SpringBoot] (https://todolist-angular-williams.herokuapp.com/) is a ToDo list application leveraging Angular, SpringBoot and Heroku.
-* This application is maintained in GitHub : [Front End](https://github.com/AmandaMWilliams/AngularToDoList), [Back End](https://github.com/AmandaMWilliams/RESTful-services).
+* This application is maintained in GitHub : [Angular](https://github.com/AmandaMWilliams/AngularToDoList), [SpringBoot](https://github.com/AmandaMWilliams/RESTful-services).
 * This application is a graphical user interface with Username and Password protection.
 * The Editor used to implement the Angular Front End of this Application was Visual Studio Code (VS Code).
 * The Editor used to implement the SpringBood Middleware of this Application was IntelliJ CE.
