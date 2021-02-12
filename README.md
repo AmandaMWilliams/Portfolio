@@ -75,6 +75,16 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 <hr>
 
+### Angular ToDo List Web Application with SpringBoot
+
+#### Current State of Application
+* [Angular Todo List Web Application with SpringBoot] (https://todolist-angular-williams.herokuapp.com/) is a ToDo list application leveraging Angular, SpringBoot and Heroku.
+* This application is maintained in GitHub here ().
+* This application is a graphical user interface with Username and Password protection.
+* The Editor used to implement the Angular Front End of this Application was Visual Studio Code (VS Code).
+* The Editor used to implement the SpringBood Middleware of this Application was IntelliJ CE.
+
+<!--
 ### First Solo Project
 
 
@@ -87,7 +97,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * Graphical User Interface (GUI)
 
 
-<!--
+
 ### Casino App
 * Collaborated with a team of five to develop a suite of four casino-style games using Java. Personally, developed the Testing implementations for each game, and generated the BlackJack gameplay methods. Managed and resolved all GitHub merge conflicts. [www.github.com/ZCW-Java6dot2/cats-casino](http://www.github.com/ZCW-Java6dot2/cats-casino)
 -->
