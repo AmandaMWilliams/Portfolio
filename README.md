@@ -14,7 +14,7 @@
 
 
 
-### Education
+### Education 
 * Delaware Technical and Community College (January 2018 - August 2020)
 * Associate of Science Degree
 
