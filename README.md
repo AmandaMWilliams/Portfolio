@@ -50,7 +50,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Object-Oriented Programming
   * Amazon Web Services (AWS): IAM
 * **Certifications:**
-  * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./Amanda Williams - Certification of Completion.pdf)
+  * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [SQL certification](./SQLCert.pdf)  
   * [HTML certification](./HTMLCert.pdf)  
   
