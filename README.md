@@ -26,7 +26,7 @@
 
 
 ### Summary
-Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github, [cumulating more than 800 github contributions within the past 4 months](https://github.com/AmandaMWilliams).
+Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github, [cumulating more than 900 github contributions within the past 6 months](https://github.com/AmandaMWilliams).
 <!--
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 -->
@@ -50,6 +50,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Object-Oriented Programming
   * Amazon Web Services (AWS): IAM
 * **Certifications:**
+  * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./Amanda Williams - Certification of Completion.pdf)
   * [SQL certification](./SQLCert.pdf)  
   * [HTML certification](./HTMLCert.pdf)  
   
