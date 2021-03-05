@@ -53,6 +53,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [SQL certification](./SQLCert.pdf)  
   * [HTML certification](./HTMLCert.pdf)  
+  * [Spring Boot certification](./Spring_Boot_Cert.pdf)
   
 
 <hr><hr>
