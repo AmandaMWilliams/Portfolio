@@ -31,7 +31,6 @@ Experienced Junior Java Developer with demonstrated ability to work with teams i
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 -->
 
-
 <hr><hr>
 
 
