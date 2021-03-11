@@ -148,7 +148,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 
-### Availity, LLC
+### Availity, LLC 
 * **Client Services - EDI Call Center**
   * **Jacksonville, FL**
   * **January 2014 - January 2016**
