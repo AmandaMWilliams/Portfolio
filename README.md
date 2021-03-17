@@ -37,7 +37,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Technical Skills
 * **Languages:**
-  * Java, JavaScript, SQL, MarkDown, HTML
+  * Java, MarkDown, JavaScript, SQL, HTML
 * **Frameworks/Libraries:**
   * Spring Boot, ReactJS, Angular2
 * **Other Skills:**
@@ -47,7 +47,8 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Terminal, Bash, Shell
   * Test-Driven Development
   * Object-Oriented Programming
-  * Amazon Web Services (AWS): IAM
+  * Amazon Web Services (AWS): IAM, S3 Buckets
+  * SOAP Web Authentication mechanisms: OAuth
 * **Certifications:**
   * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [SQL certification](./SQLCert.pdf)  
