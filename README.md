@@ -6,7 +6,7 @@
 
 
 
-### Contact Information 
+### Contact Information  
 * **Phone**: `(302)-521-8813`
 * **Email**: [`Amandawilliams1915@gmail.com`](mailto:Amandawilliams1915@gmail.com)
 * **LinkedIn:** [`linkedin.com/in/amandamwilliams1/`](https://linkedin.com/in/amandamwilliams1/)
