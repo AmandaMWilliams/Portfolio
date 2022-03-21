@@ -1,9 +1,8 @@
 * Click [here](./AmandaMWilliamsPortfolio.pdf) to download the most recent PDF
 
 # Amanda M. Williams  
-# Database Administrator and Junior Software Developer  
+# Database Administrator/Junior Software Developer  
 ## About  
-
 
 
 ### Contact Information  
@@ -11,7 +10,6 @@
 * **Email**: [`Amandawilliams1915@gmail.com`](mailto:Amandawilliams1915@gmail.com)
 * **LinkedIn:** [`linkedin.com/in/amandamwilliams1/`](https://linkedin.com/in/amandamwilliams1/)
 * **Github:** [`https://github.com/AmandaMWilliams`](https://github.com/AmandaMWilliams)
-
 
 
 ### Education 
@@ -24,7 +22,6 @@
 * Academic Recognition (4 Semesters)
 
 
-
 ### Summary
 Experienced Database Administrator and Junior Software Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in MySQL via SQL Server Management Studio, and version control management systems using GitCLI and Github. (https://github.com/AmandaMWilliams).
 <!--
@@ -32,7 +29,6 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 -->
 
 <hr><hr>
-
 
 
 ### Technical Skills
@@ -60,12 +56,10 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 <hr><hr>
 
 
-
 ## Personal Projects
 
 
 ### Heroku Deployed ReactJS ToDo List Web Application
-
 
 #### Current State Of Application
 * [Heroku Deployed ReactJS ToDo List Web Application](https://todolist-react-williams.herokuapp.com/) is a ToDo list leveraging NodeJS, ReactJS, and Heroku with Node BuildPack.  
@@ -109,7 +103,6 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 <hr><hr>
 
 
-
 ## Professional Experience
 
 ### Diamond Technologies, Inc.
@@ -120,7 +113,6 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 *	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
 *	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
 
-
 ### Zip Code Wilmington
  **Software Developer**  
  **Wilmington, DE**  
@@ -129,16 +121,12 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles
 * Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
 
-
-
 ### Delaware Technical and Community College
  **Supplemental Instructor**  
  **Wilmington, DE**  
  **August 2018 - December 2018**  
 * Facilitated supplemental instruction sessions for targeted courses by sharing with students how to effectively study for the course and how to maximize their potential for their academic success.
 * Students who participated in optional supplemental instruction averaged one full letter grade higher on tests than those who did not.
-
-
 
 ### Laboratory Corporation of America
  **Accessionor**  
@@ -147,16 +135,12 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 * Scanned and entered data about lab specimens received for testing from designated laboratory departments or other locations.
 * Alleviated a 3-month backlog of unscanned patient records in three weeks.
 
-
-
 ### Aetna Life Insurance - Jacksonville
  **Complaints and Appeals Analyst**  
   * **Jacksonville, FL**  
   * **January 2016 - May 2017**  
 * Processed incoming appeals and resolved more than 50 written customer requests per day.
 * Started as a temporary data entry operator and was hired full-time due to high production and efficiency.
-
-
 
 ### Availity, LLC 
  **Client Services - EDI Call Center**  
