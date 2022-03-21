@@ -113,7 +113,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 ## Professional Experience
 
 ### Diamond Technologies, Inc.
-* **Junior Software Developer**
+ **Junior Software Developer**
   * **Wilmington, DE**
   * **April 2021 - Current**
 *	Added additional functionality to existing code using .Net, SQL Relational Databases, WordPress, and Microsoft Access.
@@ -122,7 +122,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 ### Zip Code Wilmington
-* **Software Developer**
+ **Software Developer**
   * **Wilmington, DE**
   * **November 2020 - January 2021**
 * Admitted in Zip Code Wilmington's highly-competitive software development program which accepts less than 10% of applicants
@@ -132,7 +132,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 ### Delaware Technical and Community College
-* **Supplemental Instructor**
+ **Supplemental Instructor**
   * **Wilmington, DE**
   * **August 2018 - December 2018**
 * Facilitated supplemental instruction sessions for targeted courses by sharing with students how to effectively study for the course and how to maximize their potential for their academic success.
@@ -141,7 +141,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 ### Laboratory Corporation of America
-* **Accessionor**
+ **Accessionor**
   * **New Castle, DE**
   * **July 2017 - October 2017**
 * Scanned and entered data about lab specimens received for testing from designated laboratory departments or other locations.
@@ -150,7 +150,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 ### Aetna Life Insurance - Jacksonville
-* **Complaints and Appeals Analyst**
+ **Complaints and Appeals Analyst**
   * **Jacksonville, FL**
   * **January 2016 - May 2017**
 * Processed incoming appeals and resolved more than 50 written customer requests per day.
@@ -159,7 +159,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 ### Availity, LLC 
-* **Client Services - EDI Call Center**
+ **Client Services - EDI Call Center**
   * **Jacksonville, FL**
   * **January 2014 - January 2016**
 * Resolved more than 50 client problems daily by actively listening to their concerns, and offering solutions to address their needs.
