@@ -1,7 +1,7 @@
 * Click [here](./AmandaMWilliamsPortfolio.pdf) to download the most recent PDF
 
 # Amanda M. Williams  
-# Junior Java Developer  
+# Database Administrator and Junior Software Developer  
 ## About  
 
 
@@ -26,7 +26,7 @@
 
 
 ### Summary
-Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github. (https://github.com/AmandaMWilliams).
+Experienced Database Administrator and Junior Software Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in MySQL via SQL Server Management Studio, and version control management systems using GitCLI and Github. (https://github.com/AmandaMWilliams).
 <!--
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 -->
