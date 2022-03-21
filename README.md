@@ -137,14 +137,14 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Aetna Life Insurance - Jacksonville
  **Complaints and Appeals Analyst**  
-  * **Jacksonville, FL**  
-  * **January 2016 - May 2017**  
+ **Jacksonville, FL**  
+ **January 2016 - May 2017**  
 * Processed incoming appeals and resolved more than 50 written customer requests per day.
 * Started as a temporary data entry operator and was hired full-time due to high production and efficiency.
 
 ### Availity, LLC 
  **Client Services - EDI Call Center**  
-  * **Jacksonville, FL**  
-  * **January 2014 - January 2016**  
+ **Jacksonville, FL**  
+ **January 2014 - January 2016**  
 * Resolved more than 50 client problems daily by actively listening to their concerns, and offering solutions to address their needs.
 * Awarded Employee of the Month 3 times as a result of achieving the highest number of customer service calls completed in single-contact, processing the highest number of account request forms, and having the shortest request-resolution timeframe.
