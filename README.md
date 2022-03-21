@@ -113,9 +113,9 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 ## Professional Experience
 
 ### Diamond Technologies, Inc.
- **Junior Software Developer**
- **Wilmington, DE**
- **April 2021 - Current**
+ **Junior Software Developer**  
+ **Wilmington, DE**  
+ **April 2021 - Current**  
 *	Added additional functionality to existing code using .Net, SQL Relational Databases, WordPress, and Microsoft Access.
 *	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
 *	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
