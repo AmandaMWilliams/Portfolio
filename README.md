@@ -7,7 +7,7 @@
 
 
 ### Contact Information  
-* **Phone**: `(302)-521-8813`
+* **Phone**: `(757) 828-5756 `
 * **Email**: [`Amandawilliams1915@gmail.com`](mailto:Amandawilliams1915@gmail.com)
 * **LinkedIn:** [`linkedin.com/in/amandamwilliams1/`](https://linkedin.com/in/amandamwilliams1/)
 * **Github:** [`https://github.com/AmandaMWilliams`](https://github.com/AmandaMWilliams)
@@ -26,7 +26,7 @@
 
 
 ### Summary
-Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github, [cumulating more than 1000 github contributions within the past 6 months](https://github.com/AmandaMWilliams).
+Experienced Junior Java Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in version control management systems using GitCLI and Github. (https://github.com/AmandaMWilliams).
 <!--
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 -->
@@ -49,6 +49,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Object-Oriented Programming
   * Amazon Web Services (AWS): IAM, S3 Buckets
   * SOAP Web Authentication mechanisms: OAuth
+  * SQL Server Management Studio / MySQL
 * **Certifications:**
   * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [SQL certification](./SQLCert.pdf)  
@@ -110,6 +111,14 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 
 ## Professional Experience
+
+### Diamond Technologies, Inc.
+* **Junior Software Developer**
+  * **Wilmington, DE**
+  * **April 2021 - Current**
+*	Added additional functionality to existing code using .Net, SQL Relational Databases, WordPress, and Microsoft Access.
+*	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
+*	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
 
 
 ### Zip Code Wilmington
