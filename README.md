@@ -47,9 +47,9 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * SOAP Web Authentication mechanisms: OAuth
   * SQL Server Management Studio / MySQL
 * **Certifications:**
-  * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [Intermediate SQL certification](./SQLCert2.pdf) from Delaware Technical Community College  
   * [Introduction to SQL certification](./SQLCert1.pdf) from Delaware Technical Community College  
+  * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [HTML certification](./HTMLCert.pdf)  
   * [Spring Boot certification](./Spring_Boot_Cert.pdf)
   
