@@ -33,7 +33,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Technical Skills
 * **Languages:**
-  * Java, MarkDown, JavaScript, SQL, HTML
+  * Java, MarkDown, JavaScript, SQL, HTML, .Net, .ASPX, C#
 * **Frameworks/Libraries:**
   * Spring Boot, ReactJS, Angular2
 * **Other Skills:**
@@ -46,6 +46,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Amazon Web Services (AWS): IAM, S3 Buckets
   * SOAP Web Authentication mechanisms: OAuth
   * SQL Server Management Studio / MySQL
+  * WordPress
 * **Certifications:**
   * [Intermediate SQL certification](./SQLCert2.pdf) from Delaware Technical Community College  
   * [Introduction to SQL certification](./SQLCert1.pdf) from Delaware Technical Community College  
@@ -110,7 +111,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
  **Junior Software Developer**  
  **Wilmington, DE**  
  **April 2021 - Current**  
-*	Added additional functionality to existing code using .Net, SQL Relational Databases, WordPress, and Microsoft Access.
+*	Added additional functionality to existing code using .Net, .ASPX, HTML, C#, SQL Relational Databases, WordPress, and Microsoft Access.
 *	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
 *	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
 
