@@ -1,7 +1,7 @@
 * Click [here](./AmandaMWilliamsPortfolio.pdf) to download the most recent PDF
 
 # Amanda M. Williams  
-# Database Administrator/Junior Software Developer  
+# Database Administrator/Software Developer  
 ## About  
 
 
@@ -23,7 +23,7 @@
 
 
 ### Summary
-Experienced Database Administrator and Junior Software Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in MySQL via SQL Server Management Studio, and version control management systems using GitCLI and Github. (https://github.com/AmandaMWilliams).
+Experienced Database Administrator and Software Developer with demonstrated ability to work with teams in AGILE environment. Knowledgeable in MySQL via SQL Server Management Studio, and version control management systems using GitCLI and Github. (https://github.com/AmandaMWilliams).
 <!--
 Dedicated, lifelong learner who is motivated by solving problems and a strong desire to make a positive impact by creating code as a Software Developer. Major experience lies in customer service and working in cross-functional teams bringing about fundamental change and process improvement.
 -->
@@ -111,6 +111,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
  **Junior Software Developer**  
  **Wilmington, DE**  
  **April 2021 - Current**  
+* Duties included workflow analysis, process improvement, problem-solving and project management.
 *	Added additional functionality to existing code using .Net, .ASPX, HTML, C#, SQL Relational Databases, WordPress, and Microsoft Access.
 *	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
 *	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
@@ -119,8 +120,8 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
  **Software Developer**  
  **Wilmington, DE**  
  **November 2020 - January 2021**  
-* Admitted in Zip Code Wilmington's highly-competitive software development program which accepts less than 10% of applicants
-* Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles
+* Admitted in Zip Code Wilmington's highly-competitive software development program which accepts less than 10% of applicants.
+* Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
 * Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
 
 ### Delaware Technical and Community College
