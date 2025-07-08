@@ -47,6 +47,7 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Amazon Web Services (AWS): IAM, S3 Buckets
   * SOAP Web Authentication mechanisms: OAuth
   * SQL Server Management Studio / MySQL
+  * Adabas
   * WordPress
 * **Certifications:**
   * [Intermediate SQL certification](./SQLCert2.pdf) from Delaware Technical Community College  
