@@ -53,6 +53,9 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
   * Completion of [Zip Code Wilmington's 12-Week Java Bootcamp](./ZipCodeWilmingtonCertification.pdf)
   * [HTML certification](./HTMLCert.pdf)  
   * [Spring Boot certification](./Spring_Boot_Cert.pdf)
+  * [Adabas Associate certification](./AdabasCert.pdf) from Software AG
+  * [Natural Associate certification](./NaturalCert.pdf) from Software AG
+  * [NaturalONE Associate certification](./NaturalONECert.pdf) from Software AG
   
 
 <hr><hr>
