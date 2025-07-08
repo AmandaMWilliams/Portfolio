@@ -33,9 +33,10 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Technical Skills
 * **Languages:**
-  * Java, MarkDown, JavaScript, SQL, HTML, .Net, .ASPX, C#
-* **Frameworks/Libraries:**
+  * Java, MarkDown, JavaScript, SQL, HTML, .Net, .ASPX, C#, Natural
+* **Frameworks, Libraries, & IDEs:**
   * Spring Boot, ReactJS, Angular2
+  * Eclipse, NaturalONE, VS Code, IntelliJ
 * **Other Skills:**
   * Git CLI and Version Control Management
   * GitHub Pages
