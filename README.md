@@ -114,12 +114,14 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ### Naval Facilities Engineering Command (NAVFAC)
  **IT Specialist - Sys Analysis**  
- **Wilmington, DE**  
- **April 2021 - November 2022**  
-* Duties included workflow analysis, process improvement, problem-solving and project management.
-*	Added additional functionality to existing code using .Net, .ASPX, HTML, C#, SQL Relational Databases, WordPress, and Microsoft Access.
-*	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
-*	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
+ **Norfolk, VA**  
+ **December 2022 - January 2024**  
+* Developed and maintained PL/SQL-based software applications aligned with functional and technical requirements, ensuring timely deployment of robust solutions.
+*	Led database design, comprehensive testing, and optimized data retrieval, enhancing overall data efficiency by 33%.
+*	Customized commercial software for specific business needs following organizational restructuring, tailoring solutions for optimal effectiveness.
+*	Analyzed business processes, identifying automation opportunities for efficiency enhancements.
+*	Provided IT-related guidance to both technical and non-technical users, ensuring compliance with security laws and policies.
+*	Identified anomalies and errors in network and system services, assisted in implementing security measures, and documented security problems in legacy IBM Cognos software.
 
 ### Diamond Technologies, Inc.
  **Junior Software Developer**  
