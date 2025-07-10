@@ -63,54 +63,16 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 <hr><hr>
 
 
-## Personal Projects
-
-
-### Heroku Deployed ReactJS ToDo List Web Application
-
-#### Current State Of Application
-* [Heroku Deployed ReactJS ToDo List Web Application](https://todolist-react-williams.herokuapp.com/) is a ToDo list leveraging NodeJS, ReactJS, and Heroku with Node BuildPack.  
-* This application is maintained in GitHub [here](https://github.com/AmandaMWilliams/ReactToDoList).  
-* The application is a graphical user interface that displays tasks to be completed.  
-* The Editor used to implement the application was Visual Studio Code (VS Code).  
-
-#### Future Implementation State Of Application
-* In the future, I would like implement a RESTful webserver to enable data persistence.  
-
-<hr>
-
-### Angular ToDo List Web Application with SpringBoot
-
-#### Current State of Application
-* [Angular Todo List Web Application with SpringBoot](https://todolist-angular-williams.herokuapp.com/) is a ToDo list application leveraging Angular, SpringBoot and Heroku.
-* This application is maintained in GitHub : [Angular](https://github.com/AmandaMWilliams/AngularToDoList), [SpringBoot](https://github.com/AmandaMWilliams/RESTful-services).
-* This application is a graphical user interface with Username and Password protection.
-* The Editor used to implement the Angular Front End of this Application was Visual Studio Code (VS Code).
-* The Editor used to implement the SpringBood Middleware of this Application was IntelliJ CE.
-
-<!--
-### First Solo Project
-
-
-#### Current State Of Application
-* The _[First Solo Project](https://github.com/AmandaMWilliams/FirstSoloProject)_ is an interactive storybook based on Little Red Ridinghood
-  * The application has a console for input and a console-display for printing output in the terminal.
-  
-  
-#### Future Implementation State Of Application
-* Graphical User Interface (GUI)
-
-
-
-### Casino App
-* Collaborated with a team of five to develop a suite of four casino-style games using Java. Personally, developed the Testing implementations for each game, and generated the BlackJack gameplay methods. Managed and resolved all GitHub merge conflicts. [www.github.com/ZCW-Java6dot2/cats-casino](http://www.github.com/ZCW-Java6dot2/cats-casino)
--->
-
-
-<hr><hr>
-
-
 ## Professional Experience
+
+### Kaeser Compressors, Inc.
+ **IT Specialist, Inside Sales**  
+ **New Castle, DE**  
+ **March 2024 - Current**  
+* Acted as the technical point of contact for technical and non-technical stakeholders, leveraging expertise in SAP ERP and C4C cloud applications.
+*	Maintained internal databases to manage customer accounts and incoming sales orders.
+*	Thoroughly reviewed sales orders to identify and rectify inaccuracies, ensuring precision and adherence to technical specifications.
+*	Leveraged artificial intelligence prompting to develop and execute an email campaign targeting underperforming products, leading to a 40% increase in product sales within a two-month period.
 
 ### Naval Facilities Engineering Command (NAVFAC)
  **IT Specialist - Sys Analysis**  
@@ -167,3 +129,51 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
  **January 2014 - January 2016**  
 * Resolved more than 50 client problems daily by actively listening to their concerns, and offering solutions to address their needs.
 * Awarded Employee of the Month 3 times as a result of achieving the highest number of customer service calls completed in single-contact, processing the highest number of account request forms, and having the shortest request-resolution timeframe.
+
+<hr><hr>
+
+
+## Personal Projects
+
+
+### Heroku Deployed ReactJS ToDo List Web Application
+
+#### Current State Of Application
+* [Heroku Deployed ReactJS ToDo List Web Application](https://todolist-react-williams.herokuapp.com/) is a ToDo list leveraging NodeJS, ReactJS, and Heroku with Node BuildPack.  
+* This application is maintained in GitHub [here](https://github.com/AmandaMWilliams/ReactToDoList).  
+* The application is a graphical user interface that displays tasks to be completed.  
+* The Editor used to implement the application was Visual Studio Code (VS Code).  
+
+#### Future Implementation State Of Application
+* In the future, I would like implement a RESTful webserver to enable data persistence.  
+
+<hr>
+
+### Angular ToDo List Web Application with SpringBoot
+
+#### Current State of Application
+* [Angular Todo List Web Application with SpringBoot](https://todolist-angular-williams.herokuapp.com/) is a ToDo list application leveraging Angular, SpringBoot and Heroku.
+* This application is maintained in GitHub : [Angular](https://github.com/AmandaMWilliams/AngularToDoList), [SpringBoot](https://github.com/AmandaMWilliams/RESTful-services).
+* This application is a graphical user interface with Username and Password protection.
+* The Editor used to implement the Angular Front End of this Application was Visual Studio Code (VS Code).
+* The Editor used to implement the SpringBood Middleware of this Application was IntelliJ CE.
+
+<!--
+### First Solo Project
+
+
+#### Current State Of Application
+* The _[First Solo Project](https://github.com/AmandaMWilliams/FirstSoloProject)_ is an interactive storybook based on Little Red Ridinghood
+  * The application has a console for input and a console-display for printing output in the terminal.
+  
+  
+#### Future Implementation State Of Application
+* Graphical User Interface (GUI)
+
+
+
+### Casino App
+* Collaborated with a team of five to develop a suite of four casino-style games using Java. Personally, developed the Testing implementations for each game, and generated the BlackJack gameplay methods. Managed and resolved all GitHub merge conflicts. [www.github.com/ZCW-Java6dot2/cats-casino](http://www.github.com/ZCW-Java6dot2/cats-casino)
+-->
+
+
