@@ -112,10 +112,19 @@ Dedicated, lifelong learner who is motivated by solving problems and a strong de
 
 ## Professional Experience
 
+### Naval Facilities Engineering Command (NAVFAC)
+ **IT Specialist - Sys Analysis**  
+ **Wilmington, DE**  
+ **April 2021 - November 2022**  
+* Duties included workflow analysis, process improvement, problem-solving and project management.
+*	Added additional functionality to existing code using .Net, .ASPX, HTML, C#, SQL Relational Databases, WordPress, and Microsoft Access.
+*	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
+*	Alleviated unassigned ticket backlog average from 10 to 3, and overall open ticket average from 30 to 15 tickets.
+
 ### Diamond Technologies, Inc.
  **Junior Software Developer**  
  **Wilmington, DE**  
- **April 2021 - Current**  
+ **April 2021 - November 2022**  
 * Duties included workflow analysis, process improvement, problem-solving and project management.
 *	Added additional functionality to existing code using .Net, .ASPX, HTML, C#, SQL Relational Databases, WordPress, and Microsoft Access.
 *	Worked individually and with teammates to debug code and resolve functionality errors through database administration.
